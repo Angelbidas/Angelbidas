@@ -4,13 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/bidasangel" target="blank"><img src="https://img.shields.io/twitter/follow/bidasangel?logo=twitter&style=for-the-badge" alt="bidasangel" /></a> </p>
 
-- 🌱 I’m currently learning **node.js**
-
 - 💬 Ask me about **java,jascript and python**
 
 - 📫 How to reach me **uwamahoroangel78@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
