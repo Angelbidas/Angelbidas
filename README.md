@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angelique Uwamahoro</h1>
 <h3 align="center">A passionate backend developer from Rwanda</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
+
 
 <p align="left"> <a href="https://twitter.com/bidasangel" target="blank"><img src="https://img.shields.io/twitter/follow/bidasangel?logo=twitter&style=for-the-badge" alt="bidasangel" /></a> </p>
 
