@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate backend developer from Rwanda</h3>
+<h3 align="left">A passionate backend developer from Rwanda</h3>
 
 
 <p align="left"> <a href="https://twitter.com/bidasangel" target="blank"><img src="https://img.shields.io/twitter/follow/bidasangel?logo=twitter&style=for-the-badge" alt="bidasangel" /></a> </p>
